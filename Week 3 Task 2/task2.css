@@ -1,0 +1,38 @@
+.loginbox{
+    background-color: white;
+    width: 270px;
+    height: 250px;
+    margin: 250px auto 250px;
+    box-shadow: 2px 2px grey;
+    padding-left: 50px;
+}
+
+.loginbutton{
+    text-align: center;
+    font-size: 10px;
+    background: green;
+    height: 30px;
+    width: 220px;
+}
+
+.input{
+    color: grey;
+}
+
+.loginbox input{
+    background-color: lightgrey;
+    height: 40px;
+    width: 200px;
+    padding-left: 20px;
+}
+
+.notregtxt{
+    font-size: 10px;
+    color: grey;
+    padding-left: 40px;
+}
+
+.notregtxt a{
+    text-decoration: none;
+    color: green;
+}
