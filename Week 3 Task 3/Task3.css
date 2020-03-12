@@ -1,17 +1,58 @@
+.companyname {
+    font-size: 50px;
+    font-style: italic;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.image {
+    height: 250px;
+    width: 650px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: -4px;
+}
+.datetitle{
+    background-color: white;
+    width: 650px;
+    height: 250px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
 .list-box{
     background-color: purple;
     font-size: 0;
 }
 
 .date-box{
-    display: inline-block;
+    width: 30%;
+    font-size: 40px;
+    padding: 40px 0px;
+}
+
+.month{
     width: 30%;
     font-size: 16px;
-    padding: 40px 0px
+    padding: 40px 0px;
 }
 
 .list-box .desc{
-    display: inline-block;
     width: 70%;
     font-size: 16px;
+}
+
+.list-box1{
+    background-color: plum;
+    font-size: 0;
+}
+
+.list-box1 .desc{
+    width: 70%;
+    font-size: 16px;
+}
+
+.blackfooter{
+    background-color: black;
 }
