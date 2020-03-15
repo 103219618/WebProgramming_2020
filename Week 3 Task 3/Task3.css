@@ -1,60 +1,112 @@
+.bodybox {
+    margin-left: none;
+    margin-right: 10%;
+    height: 250px;
+    width: 600px;
+    align-content: center;
+}
+
+.readmoreplusbox {
+    background-color: white;
+}
+
+.readmorebox {
+    height: 100px;
+    background-color: white;
+}
+
+.margintext{
+    margin-left: 5%;
+    font-family: 'Baloo 2', cursive;
+}
+
+.marginpurplebox{
+    margin-left: 20%;
+    margin-right: none;
+}
+
+.plusbox{
+    width: 40%;
+    height: 40px;
+    font-size: 40px;
+    background-color: purple;
+    text-align: center;
+    margin-left: 55%;
+    
+}
+
+.readmoreplusbox .plusbox{
+    width: 30%;
+    font-size: 50px;
+    color: white;
+    padding: 0px 40px;
+    
+}
+
 .companyname {
     font-size: 50px;
     font-style: italic;
-    margin-left: 30%;
-    margin-right: 30%;
+    color: white;
     text-align: center;
+    font-family: 'Satisfy', cursive;
 }
 
 .image {
-    height: 250px;
-    width: 650px;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-bottom: -4px;
+    margin-bottom: -3px;
 }
+
 .datetitle{
     background-color: white;
-    width: 650px;
-    height: 250px;
-    margin-left: 30%;
-    margin-right: 30%;
+    border-bottom: 1px dashed grey
 }
 
 .list-box{
     background-color: purple;
-    font-size: 0;
 }
 
 .date-box{
     width: 30%;
     font-size: 40px;
     padding: 40px 0px;
+    color: white;
+    font-family: 'Baloo 2', cursive;
 }
 
 .month{
     width: 30%;
     font-size: 16px;
     padding: 40px 0px;
+    color: white;
+    font-family: 'Baloo 2', cursive;
 }
 
 .list-box .desc{
     width: 70%;
     font-size: 16px;
+    color: white;
+    font-family: 'Baloo 2', cursive;
 }
 
 .list-box1{
     background-color: plum;
-    font-size: 0;
 }
 
 .list-box1 .desc{
     width: 70%;
     font-size: 16px;
+    color: white;
+    font-family: 'Baloo 2', cursive;
 }
 
 .blackfooter{
     background-color: black;
-    margin-left: 30%;
-    margin-right: 30%;
+    text-align: center;
+}
+
+.footertext {
+    color: white;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Baloo 2', cursive;
 }
