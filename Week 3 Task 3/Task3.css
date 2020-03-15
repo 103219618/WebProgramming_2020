@@ -1,5 +1,5 @@
 .bodybox {
-    margin-left: none;
+    margin-left: 10%;
     margin-right: 10%;
     height: 250px;
     width: 600px;
@@ -8,39 +8,45 @@
 
 .readmoreplusbox {
     background-color: white;
+    height: 150px;
 }
 
 .readmorebox {
-    height: 100px;
+    height: 50px;
     background-color: white;
 }
 
 .margintext{
-    margin-left: 5%;
+    margin-left: 3%;
     font-family: 'Baloo 2', cursive;
 }
 
 .marginpurplebox{
     margin-left: 20%;
     margin-right: none;
+    margin-top: -10%;
+    text-align: left;
+    padding-bottom: 5%;
 }
 
 .plusbox{
-    width: 40%;
-    height: 40px;
-    font-size: 40px;
+    width: 40px;
+    height: 0px;
+    font-size: 20px;
     background-color: purple;
-    text-align: center;
-    margin-left: 55%;
-    
+    position: relative;
+    bottom: 115px;
+    left: 480px;
 }
 
 .readmoreplusbox .plusbox{
-    width: 30%;
-    font-size: 50px;
+    width: 100px;
+    height: 80px;
+    font-size: 80px;
     color: white;
-    padding: 0px 40px;
-    
+    margin-top: 0;
+    padding: 35px 10px;
+    text-align: center;
 }
 
 .companyname {
@@ -62,40 +68,50 @@
 
 .list-box{
     background-color: purple;
+    height: 90%;
 }
 
 .date-box{
-    width: 30%;
-    font-size: 40px;
-    padding: 40px 0px;
+    font-size: 50px;
     color: white;
     font-family: 'Baloo 2', cursive;
+    margin-left: 10%;
+    margin-top: -3%;
 }
 
 .month{
-    width: 30%;
-    font-size: 16px;
-    padding: 40px 0px;
+    font-size: 20px;
     color: white;
     font-family: 'Baloo 2', cursive;
+    margin-left: 10%;
+    color: darkblue;
+    padding-top: 12%;
+    
+}
+
+.desc{
+    margin-top: -100px;
 }
 
 .list-box .desc{
     width: 70%;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     font-family: 'Baloo 2', cursive;
+    padding-left: 8%;
 }
 
 .list-box1{
     background-color: plum;
+    height: 90%
 }
 
 .list-box1 .desc{
     width: 70%;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     font-family: 'Baloo 2', cursive;
+    padding-left: 8%;
 }
 
 .blackfooter{
