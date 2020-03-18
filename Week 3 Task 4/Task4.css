@@ -18,9 +18,9 @@
     color: white;
     font-size: 18px;
     background-color: darkblue;
-    padding: 10px;
-    padding-right: 70px;
-    padding-left: 100px;
+    padding: 15px;
+    padding-right: 85px;
+    padding-left: 85px;
     text-decoration: none;
 }
 
@@ -28,9 +28,9 @@
     color: white;
     font-size: 18px;
     background-color: lightblue;
-    padding: 10px;
-    padding-right: 70px;
-    padding-left: 110px;
+    padding: 15px;
+    padding-right: 85px;
+    padding-left: 85px;
     text-decoration: none;
 }
 
@@ -81,3 +81,7 @@ input {
     color: white;
 }
 
+.fab {
+    position: relative;
+    right: 60px;
+}
